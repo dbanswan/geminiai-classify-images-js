@@ -4,6 +4,14 @@ This is a simple image classification project that uses google gemini 1.5 pro to
 
 **Main purpose of this project is to showcase how to use Gemini 1.5 Pro to perform image classification.** This should be used for educational purposes only and not for any medical decision making.
 
+## Image 1 : Healthy Chest X-ray
+
+<img src="https://raw.githubusercontent.com/dbanswan/geminiai-classify-images-js/main/normalchestxray.jpeg">
+
+## Image 2 : Chest X-ray with Cancer
+
+<img src="https://raw.githubusercontent.com/dbanswan/geminiai-classify-images-js/main/chestcancerxray.jpg">
+
 ## Usage
 
 1. Clone the repo.
